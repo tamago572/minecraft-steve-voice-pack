@@ -12,3 +12,6 @@
 }
 ```
 変更する数値はWikiなどで各自調べてください。
+
+ダウンロードはこちら
+[https://github.com/tamago572/minecraft-steve-voice-pack/releases](https://github.com/tamago572/minecraft-steve-voice-pack/releases)
