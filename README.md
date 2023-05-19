@@ -2,8 +2,8 @@
 マイクラのスティーブの声を復活させることができるリソースパックです。
 
 バージョンを変えたい人は[pack.mcmeta](./pack.mcmeta)ファイルの`"pack_format"`の値を変更してください。
-JSON
-```
+
+```JSON
 {
     "pack": {
         "pack_format": 13,
